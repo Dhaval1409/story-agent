@@ -115,9 +115,17 @@ const HomePage = () => {
   );
 };
 
-const FeatureCard = ({ phase, title, desc }) => (
+type FeatureCardProps = {
+  phase: number;
+  title: string;
+  desc: string;
+};
+
+const FeatureCard = ({ phase, title, desc }: FeatureCardProps) => (
   <div className="p-8 bg-zinc-900/20 border border-zinc-800/50 rounded-3xl hover:border-amber-500/40 hover:bg-zinc-900/40 transition-all group">
-    <div className="text-amber-500 font-mono text-xs font-black mb-4 group-hover:tracking-widest transition-all">PHASE {phase}</div>
+    <div className="text-amber-500 font-mono text-xs font-black mb-4 group-hover:tracking-widest transition-all">
+      PHASE {phase}
+    </div>
     <h3 className="text-xl font-bold mb-3">{title}</h3>
     <p className="text-zinc-500 text-sm leading-relaxed">{desc}</p>
   </div>
