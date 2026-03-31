@@ -1,36 +1,133 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 StoryAgent
 
-## Getting Started
+> From Idea → Script → Cinematic Universe 🎬
 
-First, run the development server:
+🌐 Live Demo: https://story-agent-two.vercel.app  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ What is StoryAgent?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+StoryAgent is an AI-powered storytelling platform that transforms a simple idea into a complete cinematic production system.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Just give a small idea like:
+"A haunted haveli with a mysterious man..."
 
-## Learn More
+And it generates:
+- 🎭 Full narrative script  
+- 🧍 Subject / Character Bible  
+- 🎬 Scene breakdowns  
+- 🎨 Cinematic prompts  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🧠 Narrative Script Generation
+- AI-generated screenplay-style stories  
+- Emotion, pacing, and structure included  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🧍 Subject Bible
+Includes:
+- Physical description  
+- Clothing  
+- Personality  
+- Behavior & expressions  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+### 🎬 Scene Library
+Each scene includes:
+- Environment details  
+- Architecture style  
+- Lighting conditions  
+- Camera angles  
+- Mood & atmosphere  
+
+Example:
+
+Shot 02 – The Grand Entrance  
+A decaying haveli with broken windows and vines  
+Lighting: dusk  
+Mood: eerie  
+Camera: wide low-angle shot  
+
+---
+
+### 🎨 Cinematic Prompt Generator
+Ready prompts for:
+- Midjourney  
+- Stable Diffusion  
+
+Example:
+
+Ultra cinematic, abandoned haveli, dusk lighting, fog atmosphere, dramatic shadows, photorealistic  
+
+---
+
+### 🎭 Drama Agent (Theatre Script)
+Generate scripts using:
+- Topic  
+- Language (Hinglish / Hindi / English)  
+- Cast size  
+- Duration  
+
+---
+
+## ⚙️ Tech Stack
+
+- Next.js  
+- Tailwind CSS  
+- Gemini AI  
+- LangChain  
+- Vercel  
+
+---
+
+## 🧩 Use Cases
+
+- Content creation  
+- Short films  
+- AI image generation  
+- Theatre scripts  
+- Story writing  
+
+---
+
+## 🛠️ How It Works
+
+1. Enter idea  
+2. AI generates story + characters + scenes  
+3. Get cinematic prompts  
+4. Use in AI tools  
+
+---
+
+## 📌 Future Scope
+
+- Voice narration  
+- Scene animation  
+- PDF export  
+- Advanced AI control  
+
+---
+
+## 👨‍💻 Author
+
+Dhaval  
+
+---
+
+## ⭐ Support
+
+If you like this project:
+- Star the repo ⭐  
+- Fork it 🍴  
+
+---
+
+## 💡 Quote
+
+"You don’t just write stories… you direct them." 🎬
