@@ -116,7 +116,7 @@ const HomePage = () => {
 };
 
 type FeatureCardProps = {
-  phase: number;
+  phase: string;
   title: string;
   desc: string;
 };
